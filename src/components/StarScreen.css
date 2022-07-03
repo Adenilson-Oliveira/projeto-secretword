@@ -1,0 +1,26 @@
+.start h1 {
+    margin: 50px;
+    font-size: 4em;
+}
+
+.start p {
+    margin-top: 50px;
+    color: yellow;
+}
+
+button {
+    border: 3px solid gainsboro;
+    background-color: rgb(47, 71, 205);
+    color: rgb(243, 243, 243);
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 1.5em;
+    transition: .4s;
+    height: 50px;
+    margin: 30px;
+    padding: 0 43px;
+}
+
+button:hover {
+    background-color: rgba(9, 35, 175, 1);
+}
